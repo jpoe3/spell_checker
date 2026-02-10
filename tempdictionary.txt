@@ -1,0 +1,10 @@
+apple
+bear
+cat
+dog
+food
+gail
+hay
+in
+read
+test

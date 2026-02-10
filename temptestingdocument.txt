@@ -1,0 +1,4 @@
+Some string to test the program.
+Second sentence of it.
+Third sentence.
+Last.
